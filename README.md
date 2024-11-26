@@ -6,7 +6,7 @@ Advanced Deep Learning Techniques, Machine Learning based CFD, AI in LAW, and AI
 💞 I’m looking to collaborate on... 
 Projects involving AI in Maintenance for Aviation, Machine Learning for Legal Analysis, AI and Computational Fluid Dynamics (CFD) applications.
 📫 How to reach me...
-Email: (mailto:drpsrao3@gmail.com)
+Email: drpsrao3@gmail.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: 
 I hold two utility patents in the design and automobile sector, and I've been actively involved in pioneering tech solutions at the intersection of AI and CFD. aerospace and mechanical engineering fields.
